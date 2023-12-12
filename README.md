@@ -7,7 +7,7 @@
 
 ## 🚀 Habilidades em Destaque:
 
-SUAS hBBILIDADES
+<img src="https://img.shields.io/badge/-Html-FF0000?style=flat-square&labelColor=FF0000&logo=html&logoColor=white&link=mailto:ricellyocruzsilva@gmail.com" />
 
 ## Onde me encontrar: ⤵️
 
