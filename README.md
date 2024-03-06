@@ -2,7 +2,7 @@
 
 ##  Olá 👋, Meu nome é <strong>Ricellyo Cruz</strong>
 <p align="left"> 
-   UM TEXTO SOBRE VOCE 
+  Tecnologo em Analista e Desemvolvedor de Sistemas pela FACAM(Faculdade do Maranhão) . Minha paixão por tecnologia iniciou 2017, Das diversas areas que estudei Mi indentifiquei melhor com desenvolvimento Web (Front-End). Estou no inicio da minha carreira  e tenho como objetivo crescer  e mi tornar um desevolvedor Web Front-End. 🚀
 </p>
 
 ## 🚀 Tecnnologias de uso no Dia-a-Dia :
